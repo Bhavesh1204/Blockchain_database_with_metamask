@@ -3,7 +3,7 @@ import { ethers } from "ethers";
 import contractABI from "./BlockchainDatabaseABI.json"; // Replace with actual ABI
 import "./App.css";
 
-const contractAddress = "0x5FbDB2315678afecb367f032d93F642f64180aa3s"; // Replace with your deployed address
+const contractAddress = ""; // Replace with your deployed address
 
 function App() {
   const [key, setKey] = useState("");
